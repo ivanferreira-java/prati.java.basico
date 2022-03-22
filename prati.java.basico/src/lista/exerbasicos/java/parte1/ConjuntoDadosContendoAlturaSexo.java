@@ -16,7 +16,7 @@ public class ConjuntoDadosContendoAlturaSexo {
 		
 		Scanner entrada = new Scanner(System.in);
 		
-		for (int i=0; i<3; i++) {
+		for (int i=0; i<10; i++) {
 			System.out.println("Escolha o sexo da pessoa (1- Mulher e 2-Homen): ");
 			sexo = entrada.nextInt();
 			System.out.println("Informe a altura: ");
